@@ -1,0 +1,7 @@
+intro:
+  - target: l1.p1
+    title: Perspective 1
+  - target: l1.p2
+    title: Perspective 2
+  - target: l1.p3
+    title: Perspective 3
